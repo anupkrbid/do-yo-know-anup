@@ -1,2 +1,2 @@
 # do-yo-know-anup
-A quick to check how well you know ANUP!!!
+A quiz to check how well you know ANUP!!!
